@@ -7,3 +7,4 @@
 * [答题系统指南](main/quiz.md "答题系统指南 - 广学五题坊")
 * 游戏中心
     * [化学猜一猜](main/game/chemical-guess.md "化学猜一猜 - 广学五题坊")
+    * [遗传学模拟器](main/game/genetics.md "遗传学模拟器 - 广学五题坊")

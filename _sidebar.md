@@ -3,4 +3,5 @@
 * [广学答题](main/quiz.md)
 * [广学古诗文](poem/)
 * [广学账号](account/)
+* [广学英语](english/)
 * [返回广学网址导航](https://gxwtf.cn/navigator)
